@@ -1,0 +1,17 @@
+C:/Work/CPP_APPS/bdOS/build/CMakeFiles/bdOS.dir
+C:/Work/CPP_APPS/bdOS/build/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/CMakeFiles/ALL_BUILD.dir
+C:/Work/CPP_APPS/bdOS/build/CMakeFiles/ZERO_CHECK.dir
+C:/Work/CPP_APPS/bdOS/build/core/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/aispecs/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/aiiot/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/clntsrvrcomm/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/clouddsi/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/contnrz/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/iotspecs/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/netcon/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/secpriv/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/serverspecs/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/clientspecs/CMakeFiles/RUN_TESTS.dir
+C:/Work/CPP_APPS/bdOS/build/tests/CMakeFiles/test_kernel.dir
+C:/Work/CPP_APPS/bdOS/build/tests/CMakeFiles/RUN_TESTS.dir
